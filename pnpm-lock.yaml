@@ -106,8 +106,8 @@ importers:
         specifier: ^10.0.0
         version: 10.0.1(eslint@10.5.0(jiti@2.7.0))
       '@faker-js/faker':
-        specifier: ^10.1.0
-        version: 10.4.0
+        specifier: ^10.5.0
+        version: 10.5.0
       '@immich/cli':
         specifier: workspace:*
         version: file:packages/cli
@@ -916,8 +916,8 @@ importers:
         specifier: ^10.0.0
         version: 10.0.1(eslint@10.5.0(jiti@2.7.0))
       '@faker-js/faker':
-        specifier: ^10.0.0
-        version: 10.4.0
+        specifier: ^10.5.0
+        version: 10.5.0
       '@koddsson/eslint-plugin-tscompat':
         specifier: ^0.2.0
         version: 0.2.0(eslint@10.5.0(jiti@2.7.0))(typescript@6.0.3)
@@ -2984,8 +2984,8 @@ packages:
   '@extism/js-pdk@1.1.1':
     resolution: {integrity: sha512-VZLn/dX0ttA1uKk2PZeR/FL3N+nA1S5Vc7E5gdjkR60LuUIwCZT9cYON245V4HowHlBA7YOegh0TLjkx+wNbrA==}
 
-  '@faker-js/faker@10.4.0':
-    resolution: {integrity: sha512-sDBWI3yLy8EcDzgobvJTWq1MJYzAkQdpjXuPukga9wXonhpMRvd1Izuo2Qgwey2OiEoRIBr35RMU9HJRoOHzpw==}
+  '@faker-js/faker@10.5.0':
+    resolution: {integrity: sha512-bsxD8WLS5lIj7aaoCx1YJkktqYj5vlBUE6HWzu2Q51ksrGJ0H737ECCKlFU7Yf8Br45z9t99frBp/J7kzbMPAg==}
     engines: {node: ^20.19.0 || ^22.13.0 || ^23.5.0 || >=24.0.0, npm: '>=10'}
 
   '@fig/complete-commander@3.2.0':
@@ -15921,7 +15921,7 @@ snapshots:
     dependencies:
       urlpattern-polyfill: 8.0.2
 
-  '@faker-js/faker@10.4.0': {}
+  '@faker-js/faker@10.5.0': {}
 
   '@fig/complete-commander@3.2.0(commander@11.1.0)':
     dependencies:
